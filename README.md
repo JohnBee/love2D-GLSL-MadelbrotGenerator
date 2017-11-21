@@ -6,5 +6,5 @@ Arrows keys to move camera.
 Q and W for zoom contorls.
 
 ## Example
-!(fractal)[https://github.com/JohnBee/love2D-GLSL-MadelbrotGenerator/blob/master/example/img.bmp]
+![fractal)(https://github.com/JohnBee/love2D-GLSL-MadelbrotGenerator/blob/master/example/img.bmp)
 
